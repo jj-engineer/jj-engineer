@@ -13,28 +13,136 @@ AI Engineer / Software Engineer Portfolio
 
 </div>
 
+
+# Engineering Profile
+
+```yaml
+Developer:
+  name: JJ
+  location: Cambodia
+
+Education:
+  field: AI Engineering
+
+Specialization:
+  - Artificial Intelligence
+  - Full Stack Development
+  - Machine Learning Systems
+  - Large Language Models
+  - Software Architecture
+
+Engineering Approach:
+  - Clean Architecture
+  - Scalable Systems
+  - Research Driven Development
+  - Continuous Improvement
+
+Current Mission:
+  Build intelligent systems that create real-world impact.
+```
+
 ---
 
-# Terminal Profile
+# Technology Stack
 
-```text
-SSSSSS  ## #####  @  @@@@@ @@@@  @@@@@ @@@@@@@@ @@@@@@@@ @@@@@@@@ @@@@@@@@ @@@@@@@@ @@@@@@@@   $$$$$$$$00 SSSSSS ## ##### #  @ @@@@@@@  @@ @@@@ @@@@ @@@@ @@@@@@@@ @@@@@@@@ @@@@@@@@ @@@@@@@@ @@@@@@@@@@@@@@ 0 8 SSSSS###  #### #  ######### @@@@@@@  @@ @@@@ @@@@@@@@ @@@@@@@@ @@@@@@@@ @@@@@@@@ # $$$$$ 0 0000000 8 SSSSSS### #### # ######## @ @@@@@@@@ @ @@@@ @@@@@@@@ @@@@@@@@ @@@@@@@@ #### # SSS 0 0000 00008  S SSSSSS### #### # ######### @ @@@@@@@@ @ @@@@@@@@ @@@@@@@@ @@@@@@@@ #### ## SS SSO 0000 00008  S SSSSS# #### # ######### @ @@@@@@@@ @ @@@@@@@@ @@@@@@@@ @@@@@@@@ #####SSSSS000000 00000880   SS SSSSSS### # ######### @ @@@@@@@@ @ @@@@@@@@ @@@@@@@@ @@@@@@@@ ISS SSSSS00000 000 000000    SS SSSSSSS# ### ######### @ @@@@@@@@ @ @@@@@@@@ @@@@@@@@ @@@@@@@@@ #SS SSSSSS000000 00000000    SSSSSS SSS S ########### @@@@@@@@ @@@@@@ @ @@@@@@@@ @@@@@@@@ # $$$$$$ S00000000000
-   SSSSSSSSS S$ ############ @@@@@@@@ @@@@@@ @ @@@@@@@@ @@@@@@@@ ######## SSSSSSSSS S  00
-   SSSSSSSSS SSSSSS## ########### @@@@@@@@ @@@@@@@@ @@@@@@@@ #######SSSSSISSSSSS SSSSSSSSS
-   SSSSSSSSS SSSSSS## ########### @@@@@@@@ @@@@@@@@ @@@@@@@@ ##x8800000##### SSSS SSSS SSSSS
-   0SSSSSS0000 SSSS### ######## @@@@@@@@ @@@@ @# @@@@ ##### #SSSSS S SS SSS
-     000 00000000SSSSSS S$ ####### @@@@@@@@ @@ +  x880000@ @@@@ ## #######@
-      0 000 0000000SSSS SSS S$ ##### @@@@@@@@ @++   + x X88@ @@@@ # #### @@@@@     00000000000000000SS SSS### #  @@ @@@@@@@@ ++    ++ +xx X8 # +++xxX @ @@@@@ @     000 0 00 000 0SSSSS### #  @@ @@@@@@@@ ++     + x + ++xxX@ @@@@@@@@ @@     008888888888 0000SSSSSS ####### @@@@@ @@S=             x+         =@ @@@@@@@@     08 8XX X8888880000SS SS ##### @@@@@@@                     ++xx X+   +  +@ @@ @@     SX8XXXXXX X8888800 S SS######### @@@@@                    =++xx X ++++   +<<@ @@@     S SXXXX XXX8888000 S$$ ## @@@@ @Sx                     =++XXX X +X+=      ++8000 @@SS
-    #S8SS+OXXXXX88880000SSSISSSSS#@ @x8                   + X  8 XXXxSOXX        S@@@@@@@@@@S00
-    ##OS XXXX00S>888 0 OS SS SS#####@ 0 8                 + X  8 8XXxOSOXV          @@@ @@@@ SSSS
-    SS$S+ -=+Xx SO 08 00 SSSSSS #######0 OX                8  #S8 8SSSSO++X8 S        x@@@@ @@@ X
-    @8SS## S## X  SSS X800SSSS##### @  ##                XSO     +XO###### #         X@@@@@ @@ 8 x0
-    xXSS SS#####@@88 SS XOSS # ############              +X8X#######QQQQQQS         XQQQQQQQQ@@ @
-    #8XXXX # @@@@@ @ 0 @ S8S$# #### @@@@@                 8### @@@@@@@ @@@           @ @@@@@@@@#
-    @@ @ X xx[@@@@@@@@@@@@ @@@@@@ @@@ S&@@@ @@@#         #@@@@@@@@ @@@@@           + @ @ @ @@SO
-    @@@@@@@@ @@@@@@@@ @@@@@@@@ @@@ @ S!S!@@@@@          #@@@@@S #@@@@@            # S08 8000@@
-    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ SSSSS @@@            @@###S #S00000@@          +008 8888$ SO     @@@@@@@@@@@@@@@@@@@@@@@@@@@@ SSSSSSS @@@           0#0  S0###@@@@@@@@         8  800888 SSS     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@@@ @@ 3          0  ###### @@@@@@@@@@       000000080  0     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@@ @ @ B          X###SSS08880 #S             0000000000     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@@@ @ @ 8         S 88xx SS###0               00000 00000 S     @@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@@@@@ @ @             # SSSS ####x             +S000 0  0 0     @@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@@@@@@@ @ @             ## SOSS## 0             OS000  000     @@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@@@@@@@ @ @              ## @@@@@#             SS 000000000     @@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@@@@@@ @@ x             x!#  @@@@#X             OS 000 000     @@@@@@@@@@@@@@@@@@@@@@@@@@ @@@@@@@@@@@ @@x              ++## ###S             00SSO 00000     @ @@@@@ ############ @@@@@@@ @@@@@@@@@ @                  X088X                  +0  SO0000     @@ @ @@ ######### @@ @@@@@@@@ @@@@@@ @                    +x                    0  S0 00000     @@ @ @@ # ######@@ @@@@@@@@@@@@ @ @                                              000 S0000 0     @ @@ @@ ####### #### @@@@@@@@@@@@ @@@ @                                          + ++ +8 S00000     @ @@@@@ # ######@@@@@@@@@@@@ @@@@@ @ @@@@@@                                      =====+ 00S0     @ @@@@@@@@@@@@@@@@@@@ @@@@@@@@@@ @ @@ ==                                         = == == ++ ++X     @@@@@@@@@@@@@@@@@@@@@@@@@@@@ @@@@@@@@@@ 8                                    ++ ==+++++++ ++ +     #### ########## @@ @@@@@@@SS S                                           + == +=== ++ +++ +     ## ## ### ####### ### @@@@@@@@@ @@@@ @@@@SS 8                             + += +++ =+ == =     ### ######SS#### # ####### ####### @@@ @@@8                                 === = += ++ ++     ###### SSSSS## ###### @@@@@@@@@@@ @@@@@@@     ########SSSSS ################ # #### @ @ @X     ########S SSS##### ###### # #### @ @ @ @X     ### #### S#SSS #### ### #### ###### @@@@@@     #### ####SSSS### ##S############### ## @@@@@@@@     ## ## SSSSSSSSSSSS S##### ## #######@ @@@@@     ####S S SSSSS SS SSSS### ########### ##########     ####S #S SSSSS SS SSSSSS+ #S######## ## # #     #####SS SSSSS SSS S SS SSSSSSS ############## @     #####SS SSSSS SS SSSSSSSS+ #S######## ## ## #     SSSSSSSSSSSSSSSSSSSSSSSSSSSS SSS SS $$$SSSS$$$+
-    SSSSSSSSSSSSOOOO SSS 00 SSSSS OSSSS SSSSSS SSSS SSS+
-    S SSSS SSS00000 S OSSS OSS SSS S SS SSS S SSSSSX
-    SSSSSSSSS 0000000SSSSSSSS S S SSSSSSSO
-    SSSSSS0SS00000000 S OOO 00 000 000 SSS S0SSSS S SSS
+
+## Programming Languages
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cpp,java" />
+
+</div>
+
+
+## Artificial Intelligence
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+</div>
+
+
+## Frontend Engineering
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+
+</div>
+
+
+## Backend & Database
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,supabase" />
+
+</div>
+
+
+## Development Environment
+
+<div>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode" />
+
+</div>
+
+
+---
+
+
+# Learning Timeline
+
+
+```
+2024
+ |
+ |-- Programming Fundamentals
+ |-- Web Development
+ |
+2025
+ |
+ |-- Full Stack Engineering
+ |-- AI Development
+ |
+2026
+ |
+ |-- AI Engineering
+ |-- Machine Learning
+ |-- Intelligent Systems
+ |
+Future
+ |
+ |-- Advanced AI Research
+ |-- Building Impactful Technology
+```
+
+
+---
+
+# Connect
+
+
+<div align="center">
+
+<a href="https://github.com/jj-engineer">
+<img src="https://img.shields.io/badge/GitHub-jj--engineer-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-000?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
+
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Think+Deeply.;Build+Intelligently.;Engineer+The+Future." />
+
+</div>
