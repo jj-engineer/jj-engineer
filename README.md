@@ -14,7 +14,6 @@ AI Engineer / Software Engineer Portfolio
 </div>
 
 
-# JJ
 
 ## AI Engineer | Software Engineer | System Builder
 
