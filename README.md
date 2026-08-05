@@ -132,7 +132,7 @@ Future
 <img src="https://img.shields.io/badge/GitHub-jj--engineer-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:choeurntekchass@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-000?style=for-the-badge&logo=gmail"/>
 </a>
 
