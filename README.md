@@ -14,22 +14,6 @@ AI Engineer / Software Engineer Portfolio
 </div>
 
 
-
-## AI Engineer | Software Engineer | System Builder
-
-I design and engineer intelligent software systems by combining:
-
-- Artificial Intelligence
-- Machine Learning
-- Software Architecture
-- Cloud Engineering
-- Human-Centered Design
-
-
-My goal is to transform complex problems into reliable, scalable, and meaningful technology solutions.
-
----
-
 # Engineering Profile
 
 ```yaml
